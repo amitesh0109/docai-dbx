@@ -1,4 +1,4 @@
-# Scalable Data Pipeline To Geenrate Embeddings & RAG-based Document Q&A System using Databricks
+# Scalable Data Pipeline To Genrate Embeddings & RAG-based Document Q&A System using Databricks
 
 ## 🧠 Document Q&A System with Databricks Vector Search and RAG
 

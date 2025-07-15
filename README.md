@@ -2,13 +2,13 @@
 
 ### Project Overview
 
-This project implements a **scalable, production-grade data engineering pipeline** using **Databricks** that enables **semantic search** and **LLM-powered Q&A** over a collection of documents (PDFs, text files, etc.).
+This project implements a scalable, production-grade data engineering pipeline using Databricks that enables semantic search and LLM-powered Q&A over a collection of documents (PDFs, text files, etc.).
 
 It uses:
-- the **Medallion architecture (Bronze → Silver → Gold)**,
-- **Delta Lake** for data reliability,
-- **Databricks Vector Search** for similarity retrieval,
-- and **Databricks Foundation Model Serving** to power **Retrieval-Augmented Generation (RAG)**.
+- the Medallion architecture (Bronze → Silver → Gold),
+- Delta Lake for data reliability,
+- Databricks Vector Search for similarity retrieval,
+- Databricks Foundation Model Serving** to power Retrieval-Augmented Generation (RAG).
 
 ---
 

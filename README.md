@@ -39,6 +39,8 @@ It uses:
 - Configure files with prefix 01,02,03 respective under seperate task in a job.
 - Upload a document in the source volumn under source schema.
 - Run job to generate the embeddings table, it basically stores your documents data in chunks each chunk represented by a vector.
+- Run notebook that creates vector endpoint and a vector index on your embeddings column in the table under gold schema.
+- Run Main notebook with your query and user.
 
 ---
 

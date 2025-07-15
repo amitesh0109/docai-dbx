@@ -34,6 +34,14 @@ It uses:
 
 ---
 
+### Instructions
+
+- Configure files with prefix 01,02,03 respective under seperate task in a job.
+- Upload a document in the source volumn under source schema.
+- Run job to generate the embeddings table, it basically stores your documents data in chunks each chunk represented by a vector.
+
+---
+
 ### Medallion Architecture
 
 ```mermaid

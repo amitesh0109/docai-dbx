@@ -10,7 +10,7 @@ It uses:
 - **Databricks Vector Search** for similarity retrieval,
 - and **Databricks Foundation Model Serving** to power **Retrieval-Augmented Generation (RAG)**.
 
-🧪 Full observability and traceability are implemented using **Model Context Protocol (MCP)**.
+Full observability and traceability are implemented using **Model Context Protocol (MCP)**.
 
 ---
 
@@ -30,7 +30,7 @@ It uses:
 
 ---
 
-### 🧱 Medallion Architecture
+### Medallion Architecture
 
 ```mermaid
 graph TD;

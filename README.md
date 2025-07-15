@@ -30,7 +30,7 @@ It uses:
 
 ### Databricks Catalog Overview
 
-<!-- Uploading "Databrick Catalog Overview.png"... -->
+![Uploading Databrick Catalog Overview.png…]()
 
 ---
 

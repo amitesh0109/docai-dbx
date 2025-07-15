@@ -10,8 +10,6 @@ It uses:
 - **Databricks Vector Search** for similarity retrieval,
 - and **Databricks Foundation Model Serving** to power **Retrieval-Augmented Generation (RAG)**.
 
-Full observability and traceability are implemented using **Model Context Protocol (MCP)**.
-
 ---
 
 ### Tech Stack
@@ -27,6 +25,12 @@ Full observability and traceability are implemented using **Model Context Protoc
 | LLM for RAG            | `databricks-llama-4-maverick` (via Foundation Model Serving)               |
 | API Deployment         | Databricks Model Serving                                                   |
 | Observability          | Model Context Protocol (MCP), logging to Delta Lake                        |
+
+---
+
+### Databricks Catalog Overview
+
+<!-- Uploading "Databrick Catalog Overview.png"... -->
 
 ---
 

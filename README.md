@@ -30,7 +30,7 @@ It uses:
 
 ### Databricks Catalog Overview
 
-![Alt text](Databrick Catalog Overview.png)
+![Alt text](https://github.com/amitesh0109/docai-dbx/blob/main/Databrick%20Catalog%20Overview.png)
 
 ---
 

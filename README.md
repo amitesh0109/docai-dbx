@@ -14,7 +14,7 @@ Full observability and traceability are implemented using **Model Context Protoc
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 | Component              | Tools Used                                                                 |
 |------------------------|----------------------------------------------------------------------------|

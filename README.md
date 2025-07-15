@@ -1,8 +1,6 @@
-# Scalable Data Pipeline To Genrate Embeddings & RAG-based Document Q&A System using Databricks
+# Data Pipeline To Genrate Embeddings & RAG-based Document Q&A System using Databricks
 
-## 🧠 Document Q&A System with Databricks Vector Search and RAG
-
-### 📌 Project Overview
+### Project Overview
 
 This project implements a **scalable, production-grade data engineering pipeline** using **Databricks** that enables **semantic search** and **LLM-powered Q&A** over a collection of documents (PDFs, text files, etc.).
 
